@@ -1,6 +1,7 @@
-id=trustusercerts
-name=Always Trust User Certificates
+id=trustusercertsx
+name=Always Move And Trust User Certificates
 version=v0.4.2
 versionCode=42
-author=Jeroen Beckers (NVISO.eu)
+author=Jeroen Beckers (NVISO.eu) & Lu
 description=This module adds all installed user certificates to the system trust store.
+minMagisk=2400
